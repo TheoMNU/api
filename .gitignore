@@ -1,7 +1,7 @@
-nodes_modules/
+node_modules/
 .prettierrc
 biome.json
 package-lock.json
 package.json
-ReadeMe
+ReadMe
 vite.config.js
